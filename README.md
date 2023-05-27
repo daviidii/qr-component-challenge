@@ -31,9 +31,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 > after which I decided to start the process by structuring the content with HTML, and
 > linking the necessary assets to be used on the project such as the font from google fonts [https://fonts.google.com/specimen/Outfit]
 > I also decided to work with SASS since I find it really helpful and make my process easier when it comes to writing css.
-> The structure that I made for the content is that the main component is inside a <div> container then inside the container is the component
-> inside the component are 2 <div> containers the first one is for the qr image, and the second is for the texts and inside it are two
-> elements 1 of which is the <h1> for the title and a <p> for the description.
+> The structure that I made for the content is that the main component is inside a div container then inside the container is the component
+> inside the component are 2 div containers the first one is for the qr image, and the second is for the texts and inside it are two
+> elements 1 of which is the h1 for the title and a p for the description.
 > After I'm done with structuring the content, I proceeded to making the desing, I followed the design layout from the resources and then
 > I started with making the base of the design such as the font-sizes, colors, widths, and heights of the components.
 > I continued with the process and finished it.
